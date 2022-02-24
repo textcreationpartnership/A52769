@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Solemn League and Covenant, commonly call'd The Scotch Covenant</title>
+            <title>Solemn League and Covenant (1643)</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52769</idno>
+            <idno type="STC">Wing N405</idno>
+            <idno type="STC">ESTC R210</idno>
+            <idno type="EEBO-CITATION">12877336</idno>
+            <idno type="OCLC">ocm 12877336</idno>
+            <idno type="VID">94879</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52769)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94879)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 721:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Solemn League and Covenant, commonly call'd The Scotch Covenant</title>
+                  <title>Solemn League and Covenant (1643)</title>
+                  <author>Nedham, Marchamont, 1620-1678.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Ma. Nedham.</note>
+                  <note>Broadside.</note>
+                  <note>After printing without any word of preface the Covenant, and the Negative Oath, Nedham observes "Thus you may see how the inclinations of Dis-affected Party were bent when the Covenant was made, and how solemnly it was taken by many of them ... How near this comes to our own times I leave it to the judicious reader to judge ..." Marchamont Nedham or Needham, a noted politician during the Civil Wars, appears to have printed the above paper. cf. Crawford, J.L.L. Cat. of Engl. broadsides 117.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:94879:1"/>
+            <pb n="1" facs="tcp:94879:1"/>
+            <head>THE Solemn LEAGUE and COVENANT, Commonly call'd The Scotch Covenant.</head>
+            <p>WE Noblemen, Barons, Knights, Gentlemen, Citizens, Burgeſſes, Miniſters of the Goſpel, and Commons of all ſorts, in the Kingdoms of <hi>England, Scot<g ref="char:EOLhyphen"/>land,</hi> and <hi>Ireland,</hi> by the providence of God living under one King, and being of one Reformed Religion, having before our eyes the glory of God, and the advancement of the Kingdom of our Lord and Saviour Jeſus Chriſt, the ho<g ref="char:EOLhyphen"/>nour and happineſs of the Kings Majeſty and his Poſterity, and the true publick liberty, ſafe<g ref="char:EOLhyphen"/>ty, and peace of the Kingdoms, wherein every ones private condition is concluded: And calling to mind the treacherous and bloody Plots, Conſpiracies, Attempts, and Practices of the Enemies of God, againſt the true Religion and Profeſſors thereof in all places, eſpeci<g ref="char:EOLhyphen"/>ally in theſe Three Kingdoms, ever ſince the Reformation of Religion; and how much their rage, power, and preſumption, are of late, and at this time increaſed and exerciſed; whereof, the deplorable eſtate of the Church and Kingdom of <hi>Ireland,</hi> the diſtreſſed eſtate of the Church and Kingdom of <hi>England,</hi> and the dangerous ſtate of the Church and King<g ref="char:EOLhyphen"/>dom of <hi>Scotland,</hi> are preſent and publick Teſtimonies; We have now at laſt (after other means of Supplication, Remonſtrance, Proteſtations, and Sufferings) for the preſervation of our ſelves and our Religion from utter ruine and deſtruction, according to the commen<g ref="char:EOLhyphen"/>dable practice of theſe Kingdoms in former times, and the example of Gods people in other Nations, after mature deliberation, reſolved and determined to enter into a mutual SOLEMN LEAGUE AND COVENANT, wherein we all ſubſcribe; and each one of us for our ſelf, with our hands lifted up to the moſt high God, do ſwear:</p>
+            <list>
+               <item>I. THat we will ſineerely, really, and conſtantly, through the grace of God, endeavour in our ſeve<g ref="char:EOLhyphen"/>ral places and callings, the preſervation of the Reformed Religion in the Church of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> in Doctrine, Worſhip, Diſcipline, and Government, againſt our common Enemies; the Refor<g ref="char:EOLhyphen"/>mation of Religion in the Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> in Doctrine, Worſhip, Diſcipline and Government, according to the word of God, and the examples of the beſt Reformed Churches: And ſhall endeavour to bring the Churches of God in the Three Kingdoms, to the neareſt conjunction and <g ref="char:V">Ʋ</g>niformity in Religion, Confeſſion of Faith, form of Church-Government, Directory for Worſhip, and Catechizing; that we, and our poſterity after us, may as Brethren live in Faith and Love, and the Lord may delight to dwell in the midſt of us.</item>
+               <item>II. That we ſhall in like manner, without reſpect of perſons, endeavour the extirpation of Popery, Pre<g ref="char:EOLhyphen"/>lacy, (that is, Church-Government by Arch-Biſhops, Biſhops, their Chancellors and Commiſſaries, Deans, Deans and Chapters, Arch-Deacons, and all other Eccleſiaſtical Officers depending on that Hierar<g ref="char:EOLhyphen"/>chy) Superſtition, Hereſie, Schiſm, Prophaneneſs, and whatſoever ſhall be found to be contrary to ſound Doctrine, and to the power of Godlineſs; leſt we partake of other mens ſins, and thereby be in danger to receive of their plagues; and that the Lord may be one, and his Name one in the Three Kingdoms.</item>
+               <item>III. We ſhall with the ſame ſincerity, reality, and conſtancy, in our ſeveral vocations, endeavour with our Eſtates and Lives mutually to preſerve the Rights and Priviledges of the Parliament, and the Liberties of the Kingdoms, and to preſerve and defend the Kings Majeſties perſon and Authority, in the preſervation and the defence of the True Religion, and Liberties of the Kingdoms; that the world may bear witneſs with our Conſciences of our Loyalty, and that we have no thoughts or in<g ref="char:EOLhyphen"/>tentions to diminiſh his Majeſties juſt power and greatneſs.</item>
+               <item>IV. We ſhall alſo with all faithfulneſs endeavour the diſcovery of all ſuch as have been, or ſhall be Incendiaries, Malignants, or evil Inſtruments, by hindring the Reformation of Religion, dividing the King from his People, or one of the Kingdoms from another, or making any Faction or Parties
+<pb n="2" facs="tcp:94879:2" rendition="simple:additions"/>
+amongſt the People, contrary to this <hi>LEAGUE AND COVENANT;</hi> that they may be brought to publick Tryal, and receive condign puniſhment, as the degree of their offences ſhall require or deſerve, or the Supream Judicature of both Kingdoms reſpectively, or others ha<g ref="char:EOLhyphen"/>ving power from them for that effect, ſhall judge convenient.</item>
+               <item>V. And whereas the happineſs of a bleſſed Peace betwixt theſe Kingdoms, denyed in former times to our Progenitors, is by the good providence of God granted unto us, and hath been lately con<g ref="char:EOLhyphen"/>cluded and ſetled by both Parliaments; we ſhall each one of us, according to our place and in<g ref="char:EOLhyphen"/>tereſt, endeavour that they may remain conjoyned in a firm Peace and <g ref="char:V">Ʋ</g>nion to all poſterity, and that Juſtice may be done upon the wilful oppoſers thereof, in manner expreſſed in the precedent Article.</item>
+               <item>VI. We ſhall alſo, according to our places and callings in this common Cauſe of Religion, Liberty, and peace of the Kingdoms, aſſiſt and defend all thoſe that enter into this <hi>LEAGUE AND COVENANT,</hi> in the maintaining and purſuing thereof; and ſhall not ſuffer our ſelves, di<g ref="char:EOLhyphen"/>rectly or indirectly, by whatſoever Combination, Perſwaſion, or Terrour, to be divided and with<g ref="char:EOLhyphen"/>drawn from this bleſſed <g ref="char:V">Ʋ</g>nion and Conjunction, whether to make defection to the contrary part, or to give our ſelves to a deteſtable indifferency or Neutrality in this Cauſe, which ſo much concerns the glory of God, the good of the Kingdoms, and the honour of the King; but ſhall all the days of our lives, zealouſly and conſtantly continue therein, againſt all oppoſition, and promote the ſame ac<g ref="char:EOLhyphen"/>cording to our power, againſt all lets and impediments whatever; and what we are not able our ſelves to ſuppreſs or overcome, we ſhall reveal and make known, that it may be timely prevented or removed: all which we ſhall do as in the ſight of God.</item>
+            </list>
+            <p>And becauſe theſe Kingdoms are guilty of many ſins and provocations againſt God, and his Son Jeſus Chriſt, as is too manifeſt by our preſent diſtreſſes and danger, the fruits there<g ref="char:EOLhyphen"/>of; we profeſs and declare before God and the World, our unfeigned deſire to be humbled for our own ſins, and the ſins of theſe Kingdoms; eſpecially, that we have not as we ought, valued the ineſtimable benefit of the Goſpel; that we have not laboured for the purity and power thereof, and that we have not endeavoured to receive Chriſt in our Hearts, nor to walk worthy of him in our Lives, which are the cauſes of other ſins and tranſgreſſions, ſo much abounding amongſt us; and our true and unfeigned purpoſe, deſire, and endeavour; for our ſelves, and all others under our power and charge, both in publick and in private, in all duties we owe to God and Man, to amend our lives, and each one to go before another in the example of a real Reformation; that the Lord may turn away his wrath and heavy in<g ref="char:EOLhyphen"/>dignation, and eſtabliſh theſe Churches and Kingdoms in Truth and Peace. And this COVENANT we make in the preſence of Almighty God, the ſearcher of all Hearts, with a true intention to perform the ſame, as we ſhall anſwer at that great day, when the ſe<g ref="char:EOLhyphen"/>crets of all Hearts ſhall be diſcloſed; moſt humbly beſeeching the Lord to ſtrengthen us by his Holy Spirit for this end, and to bleſs our deſires and proceedings with ſuch ſucceſs, as may be deliverance and ſafety to his people, and incouragement to other Chriſtian Churches groaning under, or in danger of the yoak of Antichriſtian Tyranny, to joyn in the ſame or like Aſſociation and Covenant, to the glory of God, and the enlargement of the Kingdom of Jeſus Chriſt, and the peace and tranquillity of Chriſtian Kingdoms and Common-wealths.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <head>The Negative OATH.</head>
+                        <p>
+                           <hi>I A. B.</hi> do Swear from my heart, that I will not directly or indirectly adhere unto, or willingly aſſiſt the King in this War, or in this Cauſe againſt the Parliament, nor any Forces raiſed with<g ref="char:EOLhyphen"/>out the conſent of the Two Houſes of Parliament, in this Cauſe or War. And I do likewiſe Swear that my coming and ſubmitting my ſelf under the power and protection of the Parliament, is with<g ref="char:EOLhyphen"/>out any manner of deſign whatſoever, to the prejudice of the proceedings of this preſent Parliament, and without the direction, privity, or advice of the King or any of his Council or Officers, other than what I have now made known. So help me God, and the help of this Book.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>Thus you may ſee how the inclinations of the Diſ-affected Party were bent when this COVENANT was made, and how ſolemnly it was taken by many of them, notwithſtanding the very Learned and Elegant</hi> Reaſons <hi>given againſt it by the Univer<g ref="char:EOLhyphen"/>ſity of</hi> Oxford, <hi>(which Reaſons, if deſired, you may expect in a ſmall time.) How near this comes to our own times, I leave it to the judicious Reader to judge, ſo that the ill conſequences may be avoided.</hi>
+            </p>
+            <closer>
+               <signed>MA. NEDHAM.</signed>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
